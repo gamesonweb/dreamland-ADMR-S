@@ -4,3 +4,9 @@ Membres de l'équipe :
 Adam MIR-SADJADI
 Noé FLORENCE
 Allah Eddine CHERIGUI
+
+Vous trouverez ici notre repo de travail contenant le code du jeu ainsi que sa documentation :
+  https://github.com/ADMR-S/Echoes_of_Dreams
+
+Pour jouer au jeu (accéder à ce lien depuis un casque de réalité virtuelle, se référer à la documentation pour des informations complémentaires) :
+  https://echoes-of-dreams.onrender.com/
