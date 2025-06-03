@@ -10,3 +10,6 @@ Vous trouverez ici notre repo de travail contenant le code du jeu ainsi que sa d
 
 Pour jouer au jeu (accéder à ce lien depuis un casque de réalité virtuelle, se référer à la documentation pour des informations complémentaires) :
   https://echoes-of-dreams.onrender.com/
+
+Vidéo de présentation du jeu : 
+  https://www.youtube.com/watch?v=Uwqi30tmJPo
