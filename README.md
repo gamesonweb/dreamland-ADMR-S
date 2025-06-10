@@ -12,4 +12,4 @@ Pour jouer au jeu (accéder à ce lien depuis un casque de réalité virtuelle, 
   https://echoes-of-dreams-stable.onrender.com/
 
 Vidéo de présentation du jeu : 
-  https://www.youtube.com/watch?v=Uwqi30tmJPo
+  https://www.youtube.com/watch?v=2c6y-t1ypgk
